@@ -45,6 +45,7 @@ ExternalProject_Add(
     <INSTALL_DIR>/lib/libduckdb_utf8proc.a
     <INSTALL_DIR>/lib/libduckdb_fastpforlib.a
     <INSTALL_DIR>/lib/libparquet_extension.a
+    <INSTALL_DIR>/lib/libicu_extension.a
     <INSTALL_DIR>/lib/libfts_extension.a
     <INSTALL_DIR>/lib/libexcel_extension.a
     <INSTALL_DIR>/lib/libjson_extension.a)
