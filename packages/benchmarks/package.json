@@ -1,10 +1,10 @@
 {
-    "name": "@duckdb/benchmarks",
+    "name": "@malloydata/benchmarks",
     "version": "1.11.0",
     "license": "MIT",
     "private": true,
     "dependencies": {
-        "@duckdb/duckdb-wasm": "file:../duckdb-wasm",
+        "@malloydata/duckdb-wasm": "file:../duckdb-wasm",
         "apache-arrow": "^13.0.0",
         "apache-arrow-3": "npm:apache-arrow@^3.0.0",
         "arquero": "^5.2.0",

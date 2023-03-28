@@ -1,4 +1,4 @@
-import * as duckdb from '@duckdb/duckdb-wasm';
+import * as duckdb from '@malloydata/duckdb-wasm';
 
 // XXX
 // This is currently not working as expected since the FileSystemFileHandle

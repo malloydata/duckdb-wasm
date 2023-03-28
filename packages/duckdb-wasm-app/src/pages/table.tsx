@@ -1,4 +1,4 @@
-import * as rd from '@duckdb/react-duckdb';
+import * as rd from '@malloydata/react-duckdb';
 import React from 'react';
 
 import styles from './table.module.css';

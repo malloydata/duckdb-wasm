@@ -1,5 +1,5 @@
 {
-    "name": "@duckdb/react-duckdb",
+    "name": "@malloydata/react-duckdb",
     "version": "1.11.0",
     "description": "React components for DuckDB-Wasm",
     "license": "MIT",
