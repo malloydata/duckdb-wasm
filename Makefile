@@ -166,9 +166,6 @@ bench_tpch_aq: build/data bench_build yarn_install
 bench_tpch_paper: build/data bench_build yarn_install
 	yarn workspace @malloydata/benchmarks build
 	yarn workspace @malloydata/benchmarks bench:system:tpch:lovefield 0.01
-	yarn workspace @malloydata/benchmarks bench:system:tpch:lovefield 0.1
-	yarn workspace @malloydata/benchmarks bench:system:tpch:lovefield 0.5
-	yarn workspace @malloydata/benchmarks bench:system:tpch:arquero 0.01
 	yarn workspace @malloydata/benchmarks bench:system:tpch:arquero 0.1
 	yarn workspace @malloydata/benchmarks bench:system:tpch:arquero 0.5
 	yarn workspace @malloydata/benchmarks bench:system:tpch:sqljs 0.01
