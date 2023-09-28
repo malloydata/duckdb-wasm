@@ -1,6 +1,6 @@
 {
     "name": "@malloydata/duckdb-wasm",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "DuckDB powered by WebAssembly",
     "license": "MIT",
     "repository": {
